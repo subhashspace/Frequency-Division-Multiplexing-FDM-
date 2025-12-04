@@ -126,7 +126,9 @@ subplot(1,1,1);  plot(t, s);title("FDM Signal");
 
 ### Tabulation:
 
+<img width="911" height="1280" alt="image" src="https://github.com/user-attachments/assets/1fd99d0d-40a4-4e83-a948-d72cb51e424d" />
 
+<img width="924" height="1280" alt="image" src="https://github.com/user-attachments/assets/f67ad249-a797-4294-8ace-2d4d9a4f997e" />
 
 ---
 
